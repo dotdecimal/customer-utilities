@@ -26,5 +26,5 @@ Since many TPSs have specific import requirements for DICOM Plans, you should fo
 Python Information:
  - This script was developed and tested using python 3.4.3, but likely works on newer versions.
  - The following python packages are required:
-  - pydicom
+   - pydicom
    
